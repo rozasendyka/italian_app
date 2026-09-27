@@ -1,0 +1,27 @@
+english	italian	type	cat	cat1
+January	gennaio	vocab	time	months
+February	febbraio	vocab	time	months
+March	marzo	vocab	time	months
+April	aprile	vocab	time	months
+May	maggio	vocab	time	months
+June	giugno	vocab	time	months
+July	luglio	vocab	time	months
+August	agosto	vocab	time	months
+September	settembre	vocab	time	months
+October	ottobre	vocab	time	months
+November	novembre	vocab	time	months
+December	dicembre	vocab	time	months
+yesterday	ieri	vocab	time	time words
+the day before yesterday	l'altro ieri	vocab	time	time words
+last week	la settimana scorsa	vocab	time	time words
+last month	il mese scorso	vocab	time	time words
+last year	l'anno scorso	vocab	time	time words
+today	oggi	vocab	time	time words
+this week	questa settimana	vocab	time	time words
+this month	questo mese	vocab	time	time words
+this year	quest'anno	vocab	time	time words
+tomorrow	domani	vocab	time	time words
+the day after tomorrow	dopodomani	vocab	time	time words
+next week	la settimana prossima	vocab	time	time words
+next month	il mese prossimo	vocab	time	time words
+next year	l'anno prossimo	vocab	time	time words

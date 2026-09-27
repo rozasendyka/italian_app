@@ -1,0 +1,39 @@
+english	italian	type	cat	cat1
+apple	la mela	vocab	food	fruit and vegetables
+pear	la pera	vocab	food	fruit and vegetables
+banana	la banana	vocab	food	fruit and vegetables
+orange	l'arancia	vocab	food	fruit and vegetables
+lemon	il limone	vocab	food	fruit and vegetables
+strawberry	la fragola	vocab	food	fruit and vegetables
+grapes	l'uva	vocab	food	fruit and vegetables
+peach	la pesca	vocab	food	fruit and vegetables
+tomato	il pomodoro	vocab	food	fruit and vegetables
+courgette	la zucchina	vocab	food	fruit and vegetables
+aubergine	la melanzana	vocab	food	fruit and vegetables
+pepper	il peperone	vocab	food	fruit and vegetables
+carrot	la carota	vocab	food	fruit and vegetables
+onion	la cipolla	vocab	food	fruit and vegetables
+garlic	l'aglio	vocab	food	fruit and vegetables
+potato	la patata	vocab	food	fruit and vegetables
+asparagus	gli asparagi	vocab	food	fruit and vegetables
+broccoli	i broccoli	vocab	food	fruit and vegetables
+spinach	gli spinaci	vocab	food	fruit and vegetables
+mushroom	il fungo	vocab	food	fruit and vegetables
+rice	il riso	vocab	food	cooking ingredients
+pasta	la pasta	vocab	food	cooking ingredients
+chicken	il pollo	vocab	food	cooking ingredients
+meat	la carne	vocab	food	cooking ingredients
+fish	il pesce	vocab	food	cooking ingredients
+egg	l'uovo	vocab	food	cooking ingredients
+cheese	il formaggio	vocab	food	cooking ingredients
+milk	il latte	vocab	food	cooking ingredients
+coconut milk	il latte di cocco	vocab	food	cooking ingredients
+olive oil	l'olio d'oliva	vocab	food	cooking ingredients
+salt	il sale	vocab	food	cooking ingredients
+pepper (spice)	il pepe	vocab	food	cooking ingredients
+sugar	lo zucchero	vocab	food	cooking ingredients
+flour	la farina	vocab	food	cooking ingredients
+sauce	la salsa	vocab	food	cooking ingredients
+spices	le spezie	vocab	food	cooking ingredients
+basil	il basilico	vocab	food	cooking ingredients
+parsley	il prezzemolo	vocab	food	cooking ingredients
