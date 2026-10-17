@@ -44,6 +44,7 @@ st.write(f"Words available: {len(filtered_data)}")
 # QUIZ STATE INITIALIZATION
 # -------------------------
 
+# Reset quiz when category changes
 if (
     "last_cat" not in st.session_state
     or st.session_state.last_cat != (cat, subcat)
@@ -177,7 +178,6 @@ word = st.session_state.current_word
 # -------------------------
 
 st.title("Italian Vocabulary Quiz")
-
 st.header(word["english"])
 
 

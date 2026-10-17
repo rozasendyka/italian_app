@@ -25,3 +25,10 @@ the day after tomorrow	dopodomani	vocab	time	time words
 next week	la settimana prossima	vocab	time	time words
 next month	il mese prossimo	vocab	time	time words
 next year	l'anno prossimo	vocab	time	time words
+Monday	lunedì	vocab	time	days
+Tuesday	martedì	vocab	time	days
+Wednesday	mercoledì	vocab	time	days
+Thursday	giovedì	vocab	time	days
+Friday	venerdì	vocab	time	days
+Saturday	sabato	vocab	time	days
+Sunday	domenica	vocab	time	days

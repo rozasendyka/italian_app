@@ -1,0 +1,93 @@
+english	italian	type	cat	cat1
+clothes	i vestiti	vocabulary	clothing	basic clothing
+T-shirt	la maglietta	vocabulary	clothing	basic clothing
+shirt	la camicia	vocabulary	clothing	basic clothing
+blouse	la blusa	vocabulary	clothing	basic clothing
+sweater / jumper	il maglione	vocabulary	clothing	basic clothing
+sweatshirt / hoodie	la felpa	vocabulary	clothing	basic clothing
+trousers / pants	i pantaloni	vocabulary	clothing	basic clothing
+jeans	i jeans	vocabulary	clothing	basic clothing
+shorts	i pantaloncini	vocabulary	clothing	basic clothing
+skirt	la gonna	vocabulary	clothing	basic clothing
+dress	il vestito	vocabulary	clothing	basic clothing
+suit / formal outfit	l’abito	vocabulary	clothing	basic clothing
+jacket	la giacca	vocabulary	clothing	basic clothing
+coat	il cappotto	vocabulary	clothing	basic clothing
+jacket / outer jacket	il giubbotto	vocabulary	clothing	basic clothing
+puffer jacket	il piumino	vocabulary	clothing	basic clothing
+raincoat	l’impermeabile	vocabulary	clothing	basic clothing
+suit / matching set	il completo	vocabulary	clothing	basic clothing
+shoes	le scarpe	vocabulary	clothing	basic clothing
+sneakers / trainers	le scarpe da ginnastica	vocabulary	clothing	basic clothing
+boots	gli stivali	vocabulary	clothing	basic clothing
+sandals	i sandali	vocabulary	clothing	basic clothing
+high heels	le scarpe col tacco	vocabulary	clothing	basic clothing
+slippers	le pantofole	vocabulary	clothing	basic clothing
+socks	i calzini	vocabulary	clothing	basic clothing
+stockings / tights	le calze	vocabulary	clothing	basic clothing
+bag / handbag	la borsa	vocabulary	clothing	accessories
+backpack	lo zaino	vocabulary	clothing	accessories
+belt	la cintura	vocabulary	clothing	accessories
+hat	il cappello	vocabulary	clothing	accessories
+cap / beanie	il berretto	vocabulary	clothing	accessories
+scarf	la sciarpa	vocabulary	clothing	accessories
+gloves	i guanti	vocabulary	clothing	accessories
+sunglasses	gli occhiali da sole	vocabulary	clothing	accessories
+watch	l’orologio	vocabulary	clothing	accessories
+jewelry	i gioielli	vocabulary	clothing	accessories
+earrings	gli orecchini	vocabulary	clothing	accessories
+necklace	la collana	vocabulary	clothing	accessories
+bracelet	il braccialetto	vocabulary	clothing	accessories
+underwear	la biancheria intima	vocabulary	clothing	underwear and sleepwear
+underpants	le mutande	vocabulary	clothing	underwear and sleepwear
+bra	il reggiseno	vocabulary	clothing	underwear and sleepwear
+pajamas	il pigiama	vocabulary	clothing	underwear and sleepwear
+dressing gown	la vestaglia	vocabulary	clothing	underwear and sleepwear
+swimsuit	il costume da bagno	vocabulary	clothing	underwear and sleepwear
+bikini	il bikini	vocabulary	clothing	underwear and sleepwear
+tank top / undershirt	la canottiera	vocabulary	clothing	underwear and sleepwear
+black (masculine)	nero	vocabulary	clothing	colors
+black (feminine)	nera	vocabulary	clothing	colors
+white (masculine)	bianco	vocabulary	clothing	colors
+white (feminine)	bianca	vocabulary	clothing	colors
+red (masculine)	rosso	vocabulary	clothing	colors
+red (feminine)	rossa	vocabulary	clothing	colors
+blue	blu	vocabulary	clothing	colors
+green (masculine)	verde	vocabulary	clothing	colors
+green (feminine)	verde	vocabulary	clothing	colors
+yellow (masculine)	giallo	vocabulary	clothing	colors
+yellow (feminine)	gialla	vocabulary	clothing	colors
+pink	rosa	vocabulary	clothing	colors
+purple	viola	vocabulary	clothing	colors
+gray (masculine)	grigio	vocabulary	clothing	colors
+gray (feminine)	grigia	vocabulary	clothing	colors
+brown	marrone	vocabulary	clothing	colors
+orange	arancione	vocabulary	clothing	colors
+beige	beige	vocabulary	clothing	colors
+striped	a righe	vocabulary	clothing	patterns and materials
+checked / plaid	a quadri	vocabulary	clothing	patterns and materials
+polka-dot	a pois	vocabulary	clothing	patterns and materials
+floral	a fiori	vocabulary	clothing	patterns and materials
+made of cotton	di cotone	vocabulary	clothing	patterns and materials
+made of wool	di lana	vocabulary	clothing	patterns and materials
+made of leather	di pelle	vocabulary	clothing	patterns and materials
+made of linen	di lino	vocabulary	clothing	patterns and materials
+made of silk	di seta	vocabulary	clothing	patterns and materials
+to wear	indossare	vocabulary	clothing	verbs
+to wear / carry	portare	vocabulary	clothing	verbs
+to get dressed	vestirsi	vocabulary	clothing	verbs
+to try on	provare	vocabulary	clothing	verbs
+to buy	comprare	vocabulary	clothing	verbs
+to match	abbinare	vocabulary	clothing	verbs
+to take off (clothing)	togliersi	vocabulary	clothing	verbs
+to dress well	vestirsi bene	vocabulary	clothing	verbs
+What are you wearing?	Che cosa indossi?	phrase	clothing	phrases
+I'm wearing a blue shirt.	Indosso una camicia blu.	phrase	clothing	phrases
+I'd like to try this on (masculine).	Vorrei provarlo.	phrase	clothing	phrases
+I'd like to try this on (feminine).	Vorrei provarla.	phrase	clothing	phrases
+How much does it cost?	Quanto costa?	phrase	clothing	phrases
+Where is the fitting room?	Dov’è il camerino?	phrase	clothing	phrases
+It's too big.	È troppo grande.	phrase	clothing	phrases
+It's too small (masculine).	È troppo piccolo.	phrase	clothing	phrases
+It's too small (feminine).	È troppo piccola.	phrase	clothing	phrases
+I'm wearing a black T-shirt.	Indosso una maglietta nera.	phrase	clothing	phrases
