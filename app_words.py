@@ -2,8 +2,9 @@ import pandas as pd
 import streamlit as st
 import os
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+path = os.path.join(BASE_DIR, "data", "words")
 
-path = r"C:\Users\roza0\Desktop\projects\italian_app\data\vocab"
 files = os.listdir(path)
 
 # Read in data and add 'all' as subcategory 
